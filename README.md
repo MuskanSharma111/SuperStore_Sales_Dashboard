@@ -20,5 +20,9 @@ support the supermarket's goals for growth, efficiency, and customer satisfactio
 Incorporates data analysis technique, specializing in time series analysis, to deliver valuable insights, accurate sales forecasing , and interactive dashboard creation,
 driving business success.
 
+![Image](https://github.com/user-attachments/assets/dee01c05-fe61-4d98-98c5-6be71641a882)
+
+![Image](https://github.com/user-attachments/assets/f70c30e6-fbfc-40e7-b6d7-ceada38d5ee2)
+
 
 
